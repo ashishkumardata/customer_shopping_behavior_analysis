@@ -51,15 +51,15 @@ It combines **Python, SQL, and Power BI** to transform raw data into meaningful 
 
 ### 🔹 Power BI Dashboard
 
-![image alt](https://github.com/ashishkumar1812/customer_shopping_behavior_analysis/blob/3c8d28a9cbbdeacd906a244fef87363b2177673f/Images/Dashboard.png)
+![image alt](https://github.com/ashishkumardata/customer_shopping_behavior_analysis/blob/3c8d28a9cbbdeacd906a244fef87363b2177673f/Images/Dashboard.png)
 
 ### 🔹 SQL Query Output
 
-![image alt](https://github.com/ashishkumar1812/customer_shopping_behavior_analysis/blob/3c8d28a9cbbdeacd906a244fef87363b2177673f/Images/Sql_1.png)
+![image alt](https://github.com/ashishkumardata/customer_shopping_behavior_analysis/blob/3c8d28a9cbbdeacd906a244fef87363b2177673f/Images/Sql_1.png)
 
-![image alt](https://github.com/ashishkumar1812/customer_shopping_behavior_analysis/blob/3c8d28a9cbbdeacd906a244fef87363b2177673f/Images/Sql_2.png)
+![image alt](https://github.com/ashishkumardata/customer_shopping_behavior_analysis/blob/3c8d28a9cbbdeacd906a244fef87363b2177673f/Images/Sql_2.png)
 
-![image alt](https://github.com/ashishkumar1812/customer_shopping_behavior_analysis/blob/3c8d28a9cbbdeacd906a244fef87363b2177673f/Images/Sql_3.png)
+![image alt](https://github.com/ashishkumardata/customer_shopping_behavior_analysis/blob/3c8d28a9cbbdeacd906a244fef87363b2177673f/Images/Sql_3.png)
 
 > 📌 **Note:** Add your screenshots inside a folder named `images` in your repository.
 
